@@ -1,0 +1,11 @@
+.title {
+	text-align: center;
+	display: inline-block;
+}
+.title img {
+	width: 50px;
+	margin-bottom: 10px;
+}
+.input {
+	text-align: center;	
+}
